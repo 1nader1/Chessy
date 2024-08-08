@@ -1,0 +1,14 @@
+D:\dimentions\Chess-game\bin\Debug\net8.0\Chess-game.exe
+D:\dimentions\Chess-game\bin\Debug\net8.0\Chess-game.deps.json
+D:\dimentions\Chess-game\bin\Debug\net8.0\Chess-game.runtimeconfig.json
+D:\dimentions\Chess-game\bin\Debug\net8.0\Chess-game.dll
+D:\dimentions\Chess-game\bin\Debug\net8.0\Chess-game.pdb
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.AssemblyInfoInputs.cache
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.AssemblyInfo.cs
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.csproj.CoreCompileInputs.cache
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.dll
+D:\dimentions\Chess-game\obj\Debug\net8.0\refint\Chess-game.dll
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.pdb
+D:\dimentions\Chess-game\obj\Debug\net8.0\Chess-game.genruntimeconfig.cache
+D:\dimentions\Chess-game\obj\Debug\net8.0\ref\Chess-game.dll

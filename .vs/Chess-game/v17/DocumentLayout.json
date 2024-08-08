@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dimentions\\Chess-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\chessy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:chessy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\engineb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:engineb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\interfaceimovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\interfaceimovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\enginea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:enginea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\interfaceigameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:interfaceigameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\pieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:pieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\rookmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\rookmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\pawnmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\pawnmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\queenmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\queenmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\knightmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\knightmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\kingmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\kingmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|d:\\dimentions\\chess-game\\movments_strategies\\bishopmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BF1D9-4699-47A2-858F-DF61F0682225}|Chess_game.csproj|solutionrelative:movments_strategies\\bishopmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chessy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\Chessy.cs",
+              "RelativeDocumentMoniker": "Chessy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\Chessy.cs",
+              "RelativeToolTip": "Chessy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:32:31.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:46:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "interfaceIMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\interfaceIMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\interfaceIMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\interfaceIMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\interfaceIMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:05:22.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PawnMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\PawnMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\PawnMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\PawnMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\PawnMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:35:26.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RookMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\RookMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\RookMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\RookMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\RookMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:52:19.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EngineB.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\EngineB.cs",
+              "RelativeDocumentMoniker": "EngineB.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\EngineB.cs",
+              "RelativeToolTip": "EngineB.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:55:48.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EngineA.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\EngineA.cs",
+              "RelativeDocumentMoniker": "EngineA.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\EngineA.cs",
+              "RelativeToolTip": "EngineA.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:52:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:41:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pieces.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\Pieces.cs",
+              "RelativeDocumentMoniker": "Pieces.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\Pieces.cs",
+              "RelativeToolTip": "Pieces.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:45:49.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "interfaceIGameEngine.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\interfaceIGameEngine.cs",
+              "RelativeDocumentMoniker": "interfaceIGameEngine.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\interfaceIGameEngine.cs",
+              "RelativeToolTip": "interfaceIGameEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:47:28.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KingMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\KingMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\KingMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\KingMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\KingMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:27:12.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KnightMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\KnightMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\KnightMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\KnightMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\KnightMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:27:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueenMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\QueenMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\QueenMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\QueenMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\QueenMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:27:17.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BishopMovementStrategy.cs",
+              "DocumentMoniker": "D:\\dimentions\\Chess-game\\movments_strategies\\BishopMovementStrategy.cs",
+              "RelativeDocumentMoniker": "movments_strategies\\BishopMovementStrategy.cs",
+              "ToolTip": "D:\\dimentions\\Chess-game\\movments_strategies\\BishopMovementStrategy.cs",
+              "RelativeToolTip": "movments_strategies\\BishopMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:48:44.93Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
